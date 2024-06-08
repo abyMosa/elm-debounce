@@ -1,0 +1,16 @@
+{
+  "name": "@abymosa/elm-debounce",
+  "author": "Abymosa Badr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "elm:make": "elm make --debug ./src/Debounce.elm --output=/elm.bundle.js",
+    "elm:docs": "elm-doc-preview",
+    "elm:make:docs": "elm make --docs=docs.json"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "elm-doc-preview": "^5.0.5"
+  }
+}
