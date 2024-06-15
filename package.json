@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "elm:make": "elm make --debug ./src/Debounce.elm --output=/elm.bundle.js",
-    "elm:docs": "elm-doc-preview",
+    "edp": "elm-doc-preview",
     "elm:make:docs": "elm make --docs=docs.json"
   },
   "license": "ISC",
