@@ -1,9 +1,9 @@
 {
   "type": "package",
   "name": "abymosa/elm-debounce",
-  "summary": "Debounce & throttle module that can be used from an update fn or as an event",
+  "summary": "Debounce & Throttle module that can be used in update fn or in HTML",
   "license": "BSD-3-Clause",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "exposed-modules": [
     "Debounce",
     "Throttle"
